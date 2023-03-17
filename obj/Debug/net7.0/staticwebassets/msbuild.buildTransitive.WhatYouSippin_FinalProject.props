@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/WhatYouSippin_FinalProject.props" />
+</Project>

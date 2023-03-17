@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model Drink
+
+<div class="text-center">
+        <h1 class="display-4">Cocktail Recipes</h1>
+
+        <br />
+
+@using (Html.BeginForm("DrinkIndex", "Home"))
+{
+  <div class="form-group">
+     
+      <select class="form control" name="Liquor" value="">
+          <label for="liquor">Choose a Liquor:</label>
+
+          <select name="Liquor" id="drinks">
+              <option value="Tequila">Tequila</option>
+              <option value="Vodka">Vodka</option>
+              <option value="Gin">Gin</option>
+              <option value="Rum">Rum</option>
+              <option value="Whiskey">Whiskey</option>
+              <option value=" Bourbon">Bourbon</option>
+          </select>
+
+      </select>
+  </div>
+    <br />
+    <br />
+    <input type="submit" value="Sip Away" class="btn btn-primary" />
+
+}
+
+
+
