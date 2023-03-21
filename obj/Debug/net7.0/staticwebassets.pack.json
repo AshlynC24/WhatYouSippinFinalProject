@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/scopedcss/projectbundle/WhatYouSippin_FinalProject.bundle.scp.css",
-      "PackagePath": "staticwebassets/WhatYouSippin_FinalProject.bundle.scp.css"
+      "Id": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/scopedcss/projectbundle/What You Sippin.bundle.scp.css",
+      "PackagePath": "staticwebassets/What You Sippin.bundle.scp.css"
     },
     {
       "Id": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/wwwroot/Images/shaker.mp4",
@@ -249,20 +249,20 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.WhatYouSippin_FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.What You Sippin.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.WhatYouSippin_FinalProject.props",
-      "PackagePath": "build\\WhatYouSippin_FinalProject.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.What You Sippin.props",
+      "PackagePath": "build\\What You Sippin.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WhatYouSippin_FinalProject.props",
-      "PackagePath": "buildMultiTargeting\\WhatYouSippin_FinalProject.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.What You Sippin.props",
+      "PackagePath": "buildMultiTargeting\\What You Sippin.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WhatYouSippin_FinalProject.props",
-      "PackagePath": "buildTransitive\\WhatYouSippin_FinalProject.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.What You Sippin.props",
+      "PackagePath": "buildTransitive\\What You Sippin.props"
     }
   ],
   "ElementsToRemove": []

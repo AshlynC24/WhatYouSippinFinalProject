@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/What You Sippin.props" />
+</Project>

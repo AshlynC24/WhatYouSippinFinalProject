@@ -225,9 +225,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
-      "projectName": "WhatYouSippin_FinalProject",
-      "projectPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
+      "projectUniqueName": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj",
+      "projectName": "What You Sippin",
+      "projectPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj",
       "packagesPath": "/Users/luch/.nuget/packages/",
       "outputPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/",
       "projectStyle": "PackageReference",

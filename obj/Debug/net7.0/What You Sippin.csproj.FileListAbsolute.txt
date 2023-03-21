@@ -1,0 +1,38 @@
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/appsettings.Development.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/appsettings.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin.staticwebassets.runtime.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin.deps.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin.runtimeconfig.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/What You Sippin.pdb
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Google.Apis.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Google.Apis.Core.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Google.Apis.YouTube.v3.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.MvcApplicationPartsAssemblyInfo.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.RazorAssemblyInfo.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.RazorAssemblyInfo.cs
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets/msbuild.What You Sippin.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets/msbuild.build.What You Sippin.props
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.What You Sippin.props
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.What You Sippin.props
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets.build.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/staticwebassets.development.json
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/scopedcss/bundle/What You Sippin.styles.css
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/scopedcss/projectbundle/What You Sippin.bundle.scp.css
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.csproj.CopyComplete
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/refint/What You Sippin.dll
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.pdb
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/What You Sippin.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/Debug/net7.0/ref/What You Sippin.dll

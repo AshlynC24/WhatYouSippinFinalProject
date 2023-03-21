@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj": {}
+  },
+  "projects": {
+    "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj",
+        "projectName": "What You Sippin",
+        "projectPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj",
+        "packagesPath": "/Users/luch/.nuget/packages/",
+        "outputPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luch/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.60.0.2945, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

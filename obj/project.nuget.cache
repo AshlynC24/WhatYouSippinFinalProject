@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "39M/gCm82hdHP+sGGXQnp36Y8jmlKa48TFkarXuMOWm+TSp3YlLBKbabNQ7iOCkymk9VT5c/zeNf+7O2T/Gylg==",
+  "dgSpecHash": "C7hW2w3J7BGjStqBdPVbPiUbMJad4x5pLiBQqORKx6kpOz26vTgQWT4050QW/B1HcOVYWWz8D1cZVsmY8FvzWA==",
   "success": true,
-  "projectFilePath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
+  "projectFilePath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/What You Sippin.csproj",
   "expectedPackageFiles": [
     "/Users/luch/.nuget/packages/google.apis/1.60.0/google.apis.1.60.0.nupkg.sha512",
     "/Users/luch/.nuget/packages/google.apis.auth/1.60.0/google.apis.auth.1.60.0.nupkg.sha512",
