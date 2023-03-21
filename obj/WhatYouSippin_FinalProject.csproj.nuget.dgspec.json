@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject.csproj": {}
+    "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj": {}
   },
   "projects": {
-    "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject.csproj": {
+    "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject.csproj",
+        "projectUniqueName": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
         "projectName": "WhatYouSippin_FinalProject",
-        "projectPath": "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject.csproj",
-        "packagesPath": "/Users/ashlyncarmosino/.nuget/packages/",
-        "outputPath": "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/obj/",
+        "projectPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
+        "packagesPath": "/Users/luch/.nuget/packages/",
+        "outputPath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ashlyncarmosino/.nuget/NuGet/NuGet.Config"
+          "/Users/luch/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.60.0.2945, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -62,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

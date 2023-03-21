@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/fiwprchZsvx5BqFK4r3FraTnrY3pYNyszqYOQfsqWTe6q1vTbJaBM4UdLUBZWZXoKFCjN63KzK/ipZENWxEow==",
+  "dgSpecHash": "39M/gCm82hdHP+sGGXQnp36Y8jmlKa48TFkarXuMOWm+TSp3YlLBKbabNQ7iOCkymk9VT5c/zeNf+7O2T/Gylg==",
   "success": true,
-  "projectFilePath": "/Users/ashlyncarmosino/Projects/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject/WhatYouSippin_FinalProject.csproj",
+  "projectFilePath": "/Users/luch/Desktop/Repos/WhatYouSippinFinalProject/WhatYouSippin_FinalProject.csproj",
   "expectedPackageFiles": [
-    "/Users/ashlyncarmosino/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/Users/luch/.nuget/packages/google.apis/1.60.0/google.apis.1.60.0.nupkg.sha512",
+    "/Users/luch/.nuget/packages/google.apis.auth/1.60.0/google.apis.auth.1.60.0.nupkg.sha512",
+    "/Users/luch/.nuget/packages/google.apis.core/1.60.0/google.apis.core.1.60.0.nupkg.sha512",
+    "/Users/luch/.nuget/packages/google.apis.youtube.v3/1.60.0.2945/google.apis.youtube.v3.1.60.0.2945.nupkg.sha512",
+    "/Users/luch/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

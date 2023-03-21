@@ -3,15 +3,11 @@ using Newtonsoft.Json;
 
 namespace WhatYouSippin_FinalProject.Models
 {
-
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-    public class Drink
+    public class DrinkInfo
     {
+        public string idDrink { get; set; }
         public string strDrink { get; set; }
-        public string strDrinkThumb { get; set; }
-        public string idDrink { get; set; } //use this to get info on individual drinks
-        
-        
         public object strDrinkAlternate { get; set; }
         public string strTags { get; set; }
         public object strVideo { get; set; }
@@ -30,7 +26,7 @@ namespace WhatYouSippin_FinalProject.Models
 
         [JsonProperty("strInstructionsZH-HANT")]
         public object strInstructionsZHHANT { get; set; }
-        
+        public string strDrinkThumb { get; set; }
         public string strIngredient1 { get; set; }
         public string strIngredient2 { get; set; }
         public string strIngredient3 { get; set; }

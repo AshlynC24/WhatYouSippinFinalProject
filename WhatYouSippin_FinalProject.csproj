@@ -10,11 +10,18 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.60.0.2945" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Views\Drink\" />
+    <Content Remove="wwwroot\Images\" />
+    <Content Remove="wwwroot\Images\cocktails.jpeg" />
+    <Content Remove="wwwroot\Images\ezgif.com-gif-to-mp4.mp4" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\Drink\" />
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Images\cocktails.jpeg" />
+    <None Include="wwwroot\Images\shaker.mp4" />
   </ItemGroup>
 </Project>

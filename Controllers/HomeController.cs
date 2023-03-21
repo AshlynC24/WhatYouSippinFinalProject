@@ -23,12 +23,16 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult ViewDrink(Drink drink)
+    public IActionResult DrinkIndex(Drink drink)
     {
-        var cocktail = APIDrinks.callAPI(drink.strDrink);
-        return View(cocktail);
+        var input = APIDrinks.GetDrinks(drink.strDrink);
+        return View(input);
     }
-
+    public IActionResult DrinkInfoIndex(int id)//Added this to show drink id info
+    {
+        var moreInfo = APIDrinks.GetDrinkInfo(id);
+        return View(moreInfo);
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

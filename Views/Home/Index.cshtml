@@ -1,37 +1,37 @@
-﻿
+﻿@model Drink
+
 @{
-    ViewData["Title"] = "Home Page";
+    var options = new List<string>() { "Tequila", "Rum", "Gin", "Vodka", "Whiskey", "Bourbon" };
 }
-@model Drink
 
 <div class="text-center">
-        <h1 class="display-4">Cocktail Recipes</h1>
+    <h1 class="display-4">Cocktail Recipes</h1>
 
+    <br />
+
+    @using (Html.BeginForm("DrinkIndex", "Home", "Post"))
+    {
+        <div class="form-group">
+
+
+            <video controls="Controls" autoplay loop muted>
+                <source src="Images/shaker.mp4" style="width:max-content;height:max-content" />
+            </video>
+            <br />
+            <label class="title" for="">Choose a Liquor:</label>
+            <select class="form control" name="strDrink" value="">
+                @foreach(var sip in options)
+                 {
+                        <option value="@sip">@sip</option>
+                 }
+
+            </select>
+        </div>
         <br />
+        <br />
+        <input type="submit" value="Sip Away" class="btn btn-primary" />
 
-@using (Html.BeginForm("DrinkIndex", "Home"))
-{
-  <div class="form-group">
-     
-      <select class="form control" name="Liquor" value="">
-          <label for="liquor">Choose a Liquor:</label>
-
-          <select name="Liquor" id="drinks">
-              <option value="Tequila">Tequila</option>
-              <option value="Vodka">Vodka</option>
-              <option value="Gin">Gin</option>
-              <option value="Rum">Rum</option>
-              <option value="Whiskey">Whiskey</option>
-              <option value=" Bourbon">Bourbon</option>
-          </select>
-
-      </select>
-  </div>
-    <br />
-    <br />
-    <input type="submit" value="Sip Away" class="btn btn-primary" />
-
-}
-
+    }
+    </div>
 
 

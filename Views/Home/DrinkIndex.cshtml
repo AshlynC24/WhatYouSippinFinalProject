@@ -1,0 +1,19 @@
+﻿@model Root
+
+<div class="text-center">
+    <h1 class="display-4">Choose Today's Cocktail from below:</h1>
+    @foreach (var item in Model.drinks)
+    {
+        <br />
+        <h1>@item.strDrink</h1>//find the endpoint to call the links drinkID
+        <br />
+        <img src=" @item.strDrinkThumb" style="width:contain;height:fit-content" />
+        <br />
+        <h2>Click For Recipe: <a href="DrinkInfoIndex/@item.idDrink">@item.idDrink</a></h2>
+        <br />
+
+
+    }
+
+
+</div>
